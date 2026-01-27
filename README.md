@@ -6,7 +6,7 @@
 
 <h2 style="display: flex; align-items: center; gap: 10px; margin: 0;">
   <img src="/docs/images/crist.png" width="40" height="20" style="vertical-align: middle;">
-  29 de Dezembro - Rio de Janeiro
+  29 de Janeiro - Rio de Janeiro
 </h2>
 
 <img src="/bootcamp.png" width="600" height="400" style="display:block; margin-left:auto; margin-right:auto;" />

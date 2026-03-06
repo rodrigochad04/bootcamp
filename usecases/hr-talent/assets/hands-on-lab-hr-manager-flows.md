@@ -100,7 +100,7 @@ Selecione **Create an agentic workflow**:
 Primeiro, vamos editar a descrição do fluxo, as entradas e as saídas. Clique no ícone de lápis ao lado do nome do fluxo no canto superior esquerdo:
 
 ![alt text](./hands-on-lab-assets/edit_flow_description.png)
-Altere o nome para **Combinar candidatos** e a descrição para:
+Altere o nome para **Match_candidates** e a descrição para:
 
 ``` 
 Extrai habilidades dos currículos dos candidatos, extrai habilidades da descrição da vaga e gera uma tabela resumo mostrando quais candidatos possuem quais habilidades exigidas e desejáveis ​​para a vaga.

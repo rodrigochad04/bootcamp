@@ -294,7 +294,7 @@ Entre **Nome** para o nome do campo e pressione Enter. O extrator de documentos 
 
 ![alt text](./hands-on-lab-assets/candidate_name.png)
 
-Em seguida, precisamos adicionar outro campo: **Habilidades**. Adicione mais um campo e nomeie-o como **Habilidades**. Depois de pressionar Enter, o extrator de documentos preencherá o campo com os dados do documento.
+Em seguida, precisamos adicionar outro campo: **Skills**. Adicione mais um campo e nomeie-o como **Skills**. Depois de pressionar Enter, o extrator de documentos preencherá o campo com os dados do documento.
 
 ![alt text](./hands-on-lab-assets/candidate_skills.png)
 

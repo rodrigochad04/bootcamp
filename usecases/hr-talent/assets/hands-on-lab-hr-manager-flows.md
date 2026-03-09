@@ -499,7 +499,7 @@ Finalmente terminamos de definir o fluxo. Clique em **Done** para fechar o fluxo
 Antes de testar o agente, vamos concluir a seção **Behavior**. Siga as instruções abaixo:
 
 ```
-Quando solicitado a encontrar um candidato adequado para uma vaga ou a recomendar o melhor candidato para uma vaga, utilize a ferramenta 'Combinar candidatos'. Todas as outras perguntas devem ser respondidas com base no contexto do chat.
+Quando solicitado a encontrar um candidato adequado para uma vaga ou a recomendar o melhor candidato para uma vaga, utilize a ferramenta 'Match_candidates'. Todas as outras perguntas devem ser respondidas com base no contexto do chat.
 ```
 
 ![alt text](./hands-on-lab-assets/behavior.png)
@@ -509,7 +509,7 @@ Quando solicitado a encontrar um candidato adequado para uma vaga ou a recomenda
 Teste seu agente fornecendo dois currículos de candidatos. Digite a seguinte consulta no chat:
 
 ```
-recomendar um candidato para uma vaga
+Encontre um candidato para uma vaga
 ```
 
 O agente perguntará quantos candidatos você gostaria de avaliar. Resposta: 2

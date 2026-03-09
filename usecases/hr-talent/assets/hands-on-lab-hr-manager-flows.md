@@ -411,7 +411,7 @@ Para funcionar, nosso prompt generativo precisará receber **como entrada** uma 
 
 Também podemos fornecer um valor de teste de exemplo para cada variável, para que possamos executar o prompt diretamente no editor de prompts generativos e verificar se a saída está correta, sem precisar encerrar e executar todo o fluxo.
 
-Adicione as seguintes variáveis ​​de entrada do tipo _String_: *candidates*, *job_required* e *job_preferred* e atribua alguns valores de teste, por exemplo:
+Adicione as seguintes variáveis ​​de entrada do tipo _String_: *candidatos*, *obrigatórias* e *desejáveis* e atribua alguns valores de teste, por exemplo:
 
 ![alt text](./hands-on-lab-assets/create_new_var_gp.png)
 

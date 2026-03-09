@@ -469,11 +469,11 @@ No editor, selecione **Flow variables -> candidatos**:
 
 ![alt text](./hands-on-lab-assets/select_candidates_fv.png)
 
-Para *job_preferred*, também selecione **ícone de variável** e escolha **Extract job skills -> preferred**
+Para *desejáveis*, também selecione **ícone de variável** e escolha **Extract job skills -> preferred**
 
 ![alt text](./hands-on-lab-assets/select_job_preferred.png)
 
-Da mesma forma, para *job_required*, selecione o ícone da variável e escolha **Extract job skills -> required**
+Da mesma forma, para *obrigatórias*, selecione o ícone da variável e escolha **Extract job skills -> required**
 
 ![alt text](./hands-on-lab-assets/select_job_required.png)
 

@@ -375,7 +375,7 @@ Após o processamento do documento, você verá a seguinte tela:
 
 ![alt text](./hands-on-lab-assets/job_desc_doc_proc.png)
 
-Adicione dois campos, semelhantes aos que você adicionou ao extrator de currículos. Desta vez, porém, adicione os campos **necessárias** e **desejáveis** para extrair as habilidades obrigatórias e desejáveis:
+Adicione dois campos, semelhantes aos que você adicionou ao extrator de currículos. Desta vez, porém, adicione os campos **habilidades necessárias** e **habilidades desejáveis** para extrair as habilidades obrigatórias e desejáveis:
 
 Feche o nó do extrator quando terminar.
 
